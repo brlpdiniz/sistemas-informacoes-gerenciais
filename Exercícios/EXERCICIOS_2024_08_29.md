@@ -12,9 +12,9 @@
 - (b) Sistema que registra todas as vendas em um supermercado.
 - (c) Sistema que monitora e ajusta automaticamente as máquinas em uma fábrica.
 
-(  ) Sistema de Processamento de Transações (SPT)
-(  ) Sistema de Controle de Processos
-(  ) Sistema de Colaboração e Comunicação
+( b ) Sistema de Processamento de Transações (SPT)
+( a ) Sistema de Controle de Processos
+( c ) Sistema de Colaboração e Comunicação
 
 
 
