@@ -1,5 +1,21 @@
 ### Sistema de informações gerencial (SIG)
 #### Aula (1)
+- Objetivos Gerais
+    * Compreender a aplicação do sistemas de informação no processo de gestão.
+    * Ser capaz de identificar uma metodologia para
+implantação de sistemas de informações operacionais e gerenciais em organizações.
+
+- Objetivos Específicos
+    * Identificar as características desejáveis nos diversos níveis de sistemas de informações gerenciais.
+    * Visualizar a importância do sistema de informação no processo de gestão das empresas.
+    * Entender e ser capaz de possibilitar o desenvolvimento de vantagens competitivas para as empresas.
+    * Reconhecer as dores das empresas e propor soluções efetivas, com baixo custo e alto impacto.
+
+- Objetivo do Professor
+    * Oportunizar o conhecimento necessário para torná-los profissionais de destaque no meio profissional.
+    * Fazer com que possam ser relevantes no meio em que atuam ou irão atuar, saindo da média e se destacando no mercado de trabalho.
+
+
 - O que são?
     * Agrupamento, procedimentos, banco de dados, oferecidos para os tomadores de decisão (stakeholder)
 
